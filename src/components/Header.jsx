@@ -18,7 +18,7 @@ import UserSidebar from "./Authentication/UserSidebar";
 const useStyles = makeStyles(() => ({
   title: {
     flex: 1,
-    color: "gold",
+    color: "#FF9900",
     fontFamily: "Montserrat",
     fontWeight: "bold",
     cursor: "pointer",

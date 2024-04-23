@@ -5,6 +5,8 @@ import Carousel from "./Carousel";
 const useStyles = makeStyles(() => ({
   banner: {
     backgroundImage: "url(./banner2.jpg)",
+    backgroundRepeat: "no-repeat",
+    backgroundSize:"cover",
   },
   bannerContent: {
     height: 400,
@@ -46,7 +48,7 @@ const Banner = () => {
               fontFamily: "Montserrat",
             }}
           >
-            Get all the info regarding your favorite Crypto Currency
+            A single destination for all crypto prices
           </Typography>
         </div>
         <Carousel />
