@@ -16,7 +16,7 @@ const Signup = ({ handleClose }) => {
     if (password !== confirmPassword) {
       setAlert({
         open: true,
-        message: "Those passwords didn’t match. Try again.",
+        message: "Oops! Wrong Password. Try again.",
         type: "error",
       });
       return;
@@ -78,7 +78,7 @@ const Signup = ({ handleClose }) => {
       <Button
         variant="contained"
         size="large"
-        style={{ backgroundColor: "#EEBC1D" }}
+        style={{ backgroundColor: "#FF9900" }}
         onClick={handleSubmit}
       >
         Sign Up

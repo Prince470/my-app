@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyC_-D_A5gpVpjhWAmPm9h56m8RvdShUTzs",
-  authDomain: "crypto-hunter-573c4.firebaseapp.com",
-  projectId: "crypto-hunter-573c4",
-  storageBucket: "crypto-hunter-573c4.appspot.com",
-  messagingSenderId: "904224765530",
-  appId: "1:904224765530:web:30c2fa19c7d98ffc140a63",
+  apiKey: "AIzaSyDsZNXkb0t8rq4LE9XL9xm8vvc_onZpBbY",
+  authDomain: "crypto-spot-7696c.firebaseapp.com",
+  projectId: "crypto-spot-7696c",
+  storageBucket: "crypto-spot-7696c.appspot.com",
+  messagingSenderId: "747965157857",
+  appId: "1:747965157857:web:a299fa038193cabdfe82a0"
 };
 
 export default firebaseConfig;
