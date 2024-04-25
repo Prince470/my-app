@@ -4,14 +4,13 @@
     
 # Live Project Link
    
-   Crypto Spot: https://cryptohunter111.netlify.app/
+   Crypto Spot: 
    
 # Introduction
-This is a code repository for the corresponding Project.
 
-In this project, I have build a Crypto Currency watch app. While building it, I learn many advanced React & JavaScript topics. Some of them are Google Firebase for Login and Authentication purposes, Chart JS for showing chart for showing regular frequency of currency, React Routers and Coin Gecko API. 
+This repository houses the code for a Crypto Currency watch app. Through its development, i delved into advanced React and JavaScript concepts, integrating Google Firebase for secure login and authentication, Chart JS for visualizing currency trends, React Routers for smooth navigation, and the Coin Gecko API for real-time data retrieval.
 
-This app helps its user to watch over all the crypto currency prices, there last 24hr changes, its market cap and much more. In todays world everybody wants to invest in digital currency and this app helps them to choose where to invest.
+This app empowers users to monitor cryptocurrency prices, track their 24-hour changes, assess market caps, and more. In a time when digital currency investment is increasingly popular, this tool aids users in making informed decisions about where to allocate their funds.
    
 # Preview
 
@@ -33,8 +32,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will automatically reload whenever you make changes to the code. Additionally, any lint errors will be displayed in the console, allowing you to quickly identify and address any issues in your codebase.
 
 ### `npm test`
 
@@ -49,7 +47,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -62,8 +59,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
