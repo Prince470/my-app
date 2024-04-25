@@ -4,7 +4,8 @@ const firebaseConfig = {
   projectId: "crypto-spot-7696c",
   storageBucket: "crypto-spot-7696c.appspot.com",
   messagingSenderId: "747965157857",
-  appId: "1:747965157857:web:a299fa038193cabdfe82a0"
+  appId: "1:747965157857:web:a299fa038193cabdfe82a0",
+  measurementId: "G-1FP4VB8X6E"
 };
 
 export default firebaseConfig;
