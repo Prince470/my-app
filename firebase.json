@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "y",
+    "site": "cryptospot2024",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
